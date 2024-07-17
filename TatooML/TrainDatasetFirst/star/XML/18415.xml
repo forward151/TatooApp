@@ -1,0 +1,26 @@
+<annotation>
+	<folder>обработанные</folder>
+	<filename>18415.jpg</filename>
+	<path>C:\Users\dlemmer\Desktop\программа_и_примеры_фото\размеченные\обработанные\18415.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>481</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tatu4_zvezda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>116</ymin>
+			<xmax>543</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

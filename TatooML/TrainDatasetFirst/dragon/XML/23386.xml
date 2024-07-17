@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tatu6</folder>
+	<filename>23386.jpg</filename>
+	<path>//aisovdsrv/ttestershare/=TTTAAAA=/tatu6/23386.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tatu6_drakon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>187</ymin>
+			<xmax>535</xmax>
+			<ymax>726</ymax>
+		</bndbox>
+	</object>
+</annotation>

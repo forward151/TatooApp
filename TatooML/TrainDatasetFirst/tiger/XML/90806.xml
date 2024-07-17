@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tatu5</folder>
+	<filename>90806.jpg</filename>
+	<path>//Aisovdsrv/ttestershare/=TTTAAAA=/tatu5/90806.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tatu5_tigr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>164</ymin>
+			<xmax>522</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

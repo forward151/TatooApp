@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tatu6</folder>
+	<filename>73956.jpg</filename>
+	<path>C:/Users/Екатерина/Desktop/tatu6/73956.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tatu6_drakon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>23</ymin>
+			<xmax>449</xmax>
+			<ymax>723</ymax>
+		</bndbox>
+	</object>
+</annotation>

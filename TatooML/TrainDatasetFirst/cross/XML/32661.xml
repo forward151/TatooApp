@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tatu9</folder>
+	<filename>32661.jpg</filename>
+	<path>//Aisovdsrv/ttestershare/=TTTAAAA=/tatu9/32661.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tatu9_krest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>152</ymin>
+			<xmax>412</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

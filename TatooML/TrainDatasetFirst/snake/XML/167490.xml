@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tatu7</folder>
+	<filename>167490.jpg</filename>
+	<path>//Aisovdsrv/ttestershare/=TTTAAAA=/tatu7/167490.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>681</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tatu7_zmeya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>147</ymin>
+			<xmax>701</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tatu8</folder>
+	<filename>74446.jpg</filename>
+	<path>//aisovdsrv/ttestershare/=TTTAAAA=/tatu8/74446.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>682</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tatu8_kot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>129</ymin>
+			<xmax>432</xmax>
+			<ymax>659</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tatu1</folder>
+	<filename>80021.jpg</filename>
+	<path>//Aisovdsrv/ttestershare/=TTTAAAA=/tatu1/80021.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tatu1_angel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>115</ymin>
+			<xmax>214</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

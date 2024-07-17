@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tatu6</folder>
+	<filename>44438.jpg</filename>
+	<path>C:/Users/Екатерина/Desktop/tatu6/44438.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tatu3_bukva</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>220</ymin>
+			<xmax>1220</xmax>
+			<ymax>880</ymax>
+		</bndbox>
+	</object>
+</annotation>

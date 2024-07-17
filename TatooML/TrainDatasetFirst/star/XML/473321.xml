@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tatu4</folder>
+	<filename>473321.jpg</filename>
+	<path>C:\Users\dlemmer\Desktop\программа_и_примеры_фото\tatu4\473321.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tatu4_zvezda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>984</xmin>
+			<ymin>1430</ymin>
+			<xmax>1849</xmax>
+			<ymax>2261</ymax>
+		</bndbox>
+	</object>
+</annotation>
